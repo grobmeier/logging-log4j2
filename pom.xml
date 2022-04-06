@@ -296,6 +296,8 @@
     <xmlunitVersion>2.9.0</xmlunitVersion>
     <argLine>-Xms256m -Xmx1024m</argLine>
     <javaTargetVersion>1.8</javaTargetVersion>
+    <sonar.organization>grobmeier</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <module.name />
   </properties>
   <pluginRepositories>
